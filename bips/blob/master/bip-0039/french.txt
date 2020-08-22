@@ -8,7 +8,6 @@ macd
 wave
 clue
 founder
-f-droid
 droid
 victor
 dates
@@ -20,7 +19,6 @@ morgan
 ratcliff
 rowling
 knots
-k-means
 clustering
 lowest
 lavenir
@@ -30,7 +28,6 @@ linnovation
 lera
 lecho
 rig
-m-pesa
 sirius
 seguro
 subir
@@ -135,7 +132,6 @@ merchandise
 fc
 ladson
 based
-trade-in
 dresses
 underground
 vendetta
@@ -223,7 +219,6 @@ mechanical
 turk
 nintendo
 partial
-instance-hours
 billed
 natural
 glacier
@@ -315,7 +310,6 @@ electronics
 equity
 edu
 comptes
-e-btc
 wex
 refund
 futures
@@ -342,7 +336,6 @@ passport
 northwest
 streaming
 lighting
-l-btc
 bitfinex
 loccitane
 terumo
@@ -379,7 +372,6 @@ distributors
 wbtv
 wbtcamps
 bible
-x-btc
 stocktwits
 btcusd
 yearly
@@ -390,7 +382,6 @@ zacks
 zil
 zara
 zemljevid
-z-black
 btcz
 score
 przelicznik
@@ -417,19 +408,18 @@ denied
 california
 diploma
 dior
-d-wallet
 store
 uae
 en
 etsy
 malaysia
 hammann
-f-gram
+gram
 generally
 prohibited
 walletgear
 center
-g-wallet
+wallet
 handbag
 walletjoy
 jcpenney
@@ -438,7 +428,7 @@ womens
 kmart
 kikki
 pick
-l-fold
+fold
 larcobaleno
 leternite
 made
@@ -450,7 +440,6 @@ staking
 danny
 kuone
 andrea
-q-wallet
 auvi
 replacement
 rhyme
@@ -459,7 +448,6 @@ irctc
 initiated
 offers
 dimensions
-s-wallet
 specialized
 spigen
 holds
@@ -477,7 +465,6 @@ billfold
 vendors
 vest
 vasayo
-v-wallet
 europe
 oracle
 allet
@@ -511,7 +498,6 @@ changed
 busting
 week
 satisfaction
-re-enter
 validate
 information
 details
@@ -606,7 +592,6 @@ registration
 unbox
 therapy
 flutter
-ultra-slim
 self
 frifun
 debit
@@ -838,7 +823,6 @@ zelda
 fineliner
 pens
 cases
-tri-fold
 full
 darller
 walletz
@@ -913,7 +897,6 @@ quilted
 rfid
 blocking
 red
-wall-e
 transforming
 shipping
 mens
@@ -1004,9 +987,6 @@ biostar
 cote
 divoire
 toyota
-btc-e
-e-cruise
-e-riva
 carina
 binance
 para
@@ -1026,7 +1006,6 @@ juicer
 without
 hbtcool
 airdrop
-hitbtc
 instrumentation
 bangla
 investment
@@ -1044,9 +1023,7 @@ jtbc
 comedy
 kirby
 khabar
-kbtx-voya
 kbtcoe
-kbtcoe-iqac
 break
 who
 stream
@@ -1185,7 +1162,6 @@ pedigree
 abtco
 siding
 abtca
-abtc-m
 bixby
 administrator
 cbtcares
@@ -1250,11 +1226,7 @@ texas
 sbtc
 jobs
 mbtc
-tbtc
 email
-tbtcp
-tbtc-net
-tbtc-tci
 convert
 tradingview
 daily
@@ -1262,9 +1234,6 @@ ubtco
 ubtconline
 ubtc
 hampton
-iowa
-bt
-clu
 volatility
 alabaster
 warehouse
@@ -1272,23 +1241,13 @@ bluetooth
 xbtcusd
 finance
 yahoo
-yen
-yyy
-ytd
 study
-ybtc
 national
 zec
 zeal
 zambia
 zbtc
 badminton
-cpa
-cwru
-zbt
-china
-bch
-bdt
 disinfectant
 cleaner
 aud
@@ -1958,7 +1917,7 @@ cu
 feet
 gerber
 gdc
-built-in
+built
 fixed
 bathing
 months
